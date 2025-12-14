@@ -1,28 +1,21 @@
 # Pedro_F3rnandes
-# 👋 Olá, eu sou Pedro
+# 👋 Iai, me chamo Pedro!
 
-🎓 Estudante de Engenharia / Computação  
-🤖 Interessado em IA, Deep Learning e Cibersegurança  
+🎓 Estudante de Engenharia da Computação  
+🤖 Interessado em Inteligência Artificial, Deep Learning e Cibersegurança  
 💻 Desenvolvedor Python  
 
 ---
 
 ## 🚀 Tecnologias
 - Python
-- OpenCV
-- Streamlit
+- Go
+- C
 - Git
 - Linux
 
 ---
 
-## 📌 Projetos em destaque
-- 🔍 Reconhecimento de produtos por imagem
-- 📊 Análise de desperdício de alimentos
-- 🔐 Estudos em CTF e segurança ofensiva
-
----
-
 ## 📫 Contato
-- Email: seuemail@email.com
-- LinkedIn: https://linkedin.com/in/seuperfil
+- Email: pdrofrnandes@proton.me
+- LinkedIn: https://www.linkedin.com/in/pedro-fernandes-0330aa356/
