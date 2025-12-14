@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5bnJubTNvMWc1bHJ4bGZxbGF0a3c2cnM4MGV3bG5mbmFvNmwwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksylMR8mXDOhqHZVJS/giphy.gif)" width="260"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
-
-
 
 <h1 align="center">👋 Olá, eu sou Pedro</h1>
 
@@ -46,15 +44,16 @@
   - Exploração
   - Privilege Escalation
   - Linux & Windows Internals
-- Automação com Python para segurança
+  - Automação com Python para segurança
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">z
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rnandesov&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandesov&layout=compact&theme=dark)
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
 
 </p>
 
@@ -63,7 +62,7 @@
 ## 📫 Contato
 
 - GitHub: https://github.com/f3rnandesov
-- LinkedIn: https://www.linkedin.com/in/pedro-fernandes-0330aa356/
+- LinkedIn: https://www.linkedin.com/in/pedro-fernandes-0330aa356
 - Email: pdrofrnandes@proton.me
 
 ---
