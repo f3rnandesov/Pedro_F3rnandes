@@ -15,8 +15,6 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=f3rnandesov&theme=dark)
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -55,7 +53,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-
+![trophy](https://github-profile-trophy.vercel.app/?username=f3rnandesov&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rnandesov&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandesov&layout=compact&theme=dark)
 
