@@ -1,6 +1,7 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKxZzyBk4IlS7Is/giphy.gif" width="280"/>
 </p>
+
 
 <h1 align="center">👋 Olá, eu sou Pedro</h1>
 
