@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+   <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Pedro</h1>
@@ -52,8 +52,8 @@
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rnandesov&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandesov&layout=compact&theme=dark)
 
 </p>
 
