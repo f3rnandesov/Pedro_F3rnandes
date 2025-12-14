@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ4ODBjZWY1ZTM0NzY0YzE4N2IxYzE4N2IxYzE4N2IxYzE4N2IxYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7aD2e1E06GeCjGww/giphy.gif" width="600px" alt="Dead Cells GIF">
   
   <br>
 
-  <h1 align="center">👋 Olá, eu sou Pedro</h1>
+  <h1 align="center">👋 Olá, eu sou Pedro Fernandes!</h1>
 
   <p align="center">
     💻 Dev | 🔐 Segurança | 🤖 IA
