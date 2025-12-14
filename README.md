@@ -2,7 +2,7 @@
   
   <br>
 
-  <h1 align="center">👋 Olá, eu sou Pedro Fernandes!</h1>
+  <h1 align="center">👋 Iai, me chamo Pedro!</h1>
 
   <p align="center">
     💻 Dev | 🔐 Segurança | 🤖 IA
