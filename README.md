@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5bnJubTNvMWc1bHJ4bGZxbGF0a3c2cnM4MGV3bG5mbmFvNmwwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksylMR8mXDOhqHZVJS/giphy.gif)" width="260"/>
+  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5bnJubTNvMWc1bHJ4bGZxbGF0a3c2cnM4MGV3bG5mbmFvNmwwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksylMR8mXDOhqHZVJS/giphy.gif)" width="260"/>
 </p>
 
 
@@ -52,7 +52,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="center">z
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f3rnandesov&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3rnandesov&layout=compact&theme=dark)
 
