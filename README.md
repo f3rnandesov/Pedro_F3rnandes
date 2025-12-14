@@ -32,7 +32,11 @@
 
 > *"Kill, die, learn, repeat."*
 
-🎓 **Estudante de tecnologia** 🤖 Interesse profundo em **Inteligência Artificial, Visão Computacional e Deep Learning** 🔐 Focado em **Cibersegurança, CTFs e Segurança Ofensiva/Defensiva** 🐧 Usuário diário de **Linux (Parrot OS)** 🛠️ Foco em projetos práticos e aprendizado contínuo  
+- 🎓 Estudante de tecnologia
+- 🤖 Interesse em **Inteligência Artificial, Visão Computacional e Deep Learning**
+- 🔐 Estudando **Cibersegurança, CTFs e segurança ofensiva/defensiva**
+- 🐧 Usuário Linux (**Parrot OS**)
+- 🛠️ Foco em projetos práticos e aprendizado contínuo
 
 ---
 
@@ -40,11 +44,11 @@
 
 Sou um entusiasta de segurança ofensiva e praticante ativo de CTFs. Meus estudos atuais incluem:
 
-* 🕷️ **Hack The Box:** Prática constante de invasão e patch.
-* 🔍 **Enumeração:** Coleta avançada de informações.
-* 💥 **Exploração:** Identificação e uso de vulnerabilidades.
-* ⬆️ **Privilege Escalation:** Técnicas para elevação de privilégio em Linux & Windows.
-* 🐍 **Automação:** Criação de scripts em Python para segurança.
+- 🕷️ **Hack The Box:** Prática constante de invasão e patch
+- 🔍 **Enumeração:** Coleta avançada de informações
+- 💥 **Exploração:** Identificação e uso de vulnerabilidades
+- ⬆️ **Privilege Escalation:** Técnicas para elevação de privilégio em Linux & Windows
+- 🐍 **Automação:** Criação de scripts em Python para segurança
 
 ---
 
@@ -63,8 +67,4 @@ Sou um entusiasta de segurança ofensiva e praticante ativo de CTFs. Meus estudo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandes-0330aa356)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pdrofrnandes@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rnandesov)
-
-</div>
+[![LinkedIn](
