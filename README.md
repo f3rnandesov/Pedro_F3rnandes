@@ -72,4 +72,8 @@ Sou um entusiasta de segurança ofensiva e praticante ativo de CTFs. Meus estudo
 
 <div align="center">
 
-[![LinkedIn](
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-fernandes-0330aa356)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pdrofrnandes@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f3rnandesov)
+
+</div>
